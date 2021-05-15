@@ -44,6 +44,7 @@ A summary of the access policies in place can be found in the table below.
 | Load Balancer | Yes     | Open |
 | Web 1         | No                    |
 | Web 2         | No                    |
+| Web 3         | No                    |
 | ELK Server  |    Yes     |   Personal    |
 ### Elk Configuration
 
